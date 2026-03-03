@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GyanaBhaveshReddy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning aql
+- 🌱 I’m currently learning sql
 - 💞️ I’m looking to collaborate on ORACLE
 - 📫 How to reach me in mail
 - 😄 Pronouns:he/him
